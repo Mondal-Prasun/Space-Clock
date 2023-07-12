@@ -124,16 +124,19 @@ font-weight: bolder;
     .space{
         top:288px;
         bottom: 60vh;
+        height: 70vw;
+        width: 70vw;
+        left: 68px;
     }
     .space .mercury{
-        top:57px;
+        top:82px;
         left:0;
     }
     .space .venus{
         left:0;
     }
     .space .earth{
-        bottom: 84px;
+        bottom: 119px;
     }
     .space .earth .moon{
         top:5px;
